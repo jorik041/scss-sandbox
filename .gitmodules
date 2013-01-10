@@ -1,0 +1,3 @@
+[submodule "vendors/scssphp"]
+	path = vendors/scssphp
+	url = https://github.com/leafo/scssphp.git
